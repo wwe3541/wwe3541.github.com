@@ -1,0 +1,10 @@
+/* quì va il mio codice CSS */
+
+figure > img {
+	width: 400px;
+	height: 300px;
+}	
+
+header {
+	background-color: green;
+}
